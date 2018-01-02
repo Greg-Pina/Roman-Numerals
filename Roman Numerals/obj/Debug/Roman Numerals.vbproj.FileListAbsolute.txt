@@ -1,0 +1,12 @@
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\obj\Debug\WindowsApp1.Form1.resources
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\bin\Debug\Roman Numerals.exe.config
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\bin\Debug\Roman Numerals.exe
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\bin\Debug\Roman Numerals.pdb
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\bin\Debug\Roman Numerals.xml
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.exe
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.xml
+A:\Cincinnati State\.NET programming\Week Six & Seven\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.pdb
